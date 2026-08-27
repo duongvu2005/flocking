@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# scratch + generated media
+reference/
+frames/
+*.mp4
+!assets/*.gif
+
+.DS_Store
